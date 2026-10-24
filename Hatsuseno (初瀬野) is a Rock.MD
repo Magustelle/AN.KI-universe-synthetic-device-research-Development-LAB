@@ -2167,7 +2167,7 @@ everything going to be one massive app/os so it's best critical pieces are archi
 use std::collections::HashMap;
 use std::fmt;
 
-const SEAL: &str = "☯ PD";
+const SEAL: &str = 
 const BOOK: &str = "Book of Hazeru";
 
 // ---------------------------------------------------------------------------
