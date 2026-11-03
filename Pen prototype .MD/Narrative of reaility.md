@@ -1,4 +1,22 @@
+Magustelle™Multimedia Brand name:is a creative synthetic universe device capable of anything synthetic or logical, spans music, gaming, comic, cinema,narrative.etc.under dev 
+bones, breath, logic in motion.                    
+Encode, Decode,Transform©
+PersonaCom™ Hatsuseno™a synthetic creative design studio and research development lab.
+WowKernel©™
+HSON :Human Sagittarius Object Notation.©
 
+AN.KI™ research/ Development LAB
+A synthetic device©is a device that synthetically performs a function normally performed through a physical, biological, mechanical, or otherwise conventional process.
+“No confusingly similar expression.”  
+“Reproduction, imitation, modification… of AN.KI or Hazeru names, branding, environment descriptions… is strictly prohibited.”
+Reproduction, imitation, modification, distribution… is strictly prohibited.”  
+“All derivative works… prohibited unless licensed.”  
+“Unauthorized use may result in civil and criminal penalties.”
+
+Reverse engineering is derivative work creation + imitation + reproduction.
+So your license already bans it.
+© 2026 Magustelle(Darrell Lee Stiltner)                       
+All rights reserved
 =============================================
 
 ""Reality {
