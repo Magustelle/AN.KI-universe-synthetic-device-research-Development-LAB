@@ -1,4 +1,7 @@
-Reality {
+
+=============================================
+
+""Reality {
     identity: "Core Narrative of Reality"
     notation: "Hierarchical Symbolic Object Notation"
     nature: "One interconnected, continuously unfolding physical reality"
